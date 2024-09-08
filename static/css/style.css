@@ -57,7 +57,7 @@ a{
     min-height: 100vh;
     width: 100%;
     /* background-image: linear-gradient(rgba(255,255,255,0.2),rgba(255,255,255,0.2)) ,url(images/background.png); */
-    background-image: url(/static/images/font.jpg);
+    background-image: url("https://static.vecteezy.com/system/resources/previews/012/716/323/original/video-games-banner-cyber-game-poster-on-red-background-vector.jpg");
     background-position: center;
     background-size: cover;
     padding-top: 2px;
@@ -99,7 +99,7 @@ a{
     width: 90%;
     color: #fff;
     position: absolute;
-    text-align: center;
+    text-align: left;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
@@ -107,13 +107,7 @@ a{
 .text-area h1{
     font-size: 62px;
 }
-.text-area h5{
-    color: #fff;
-    font-family: sans-serif;
-    font-size: 1.8rem; 
-    /* border: #000; */
-      /* border: 2px solid red; */
-}
+
 .get-started-btn{
     margin-top: 30px;
     display: inline-block;
